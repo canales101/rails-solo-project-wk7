@@ -4,5 +4,4 @@ class CarsController < ApplicationController
 
   def bmw
   end
-
 end
